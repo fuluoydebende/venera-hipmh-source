@@ -1,0 +1,9 @@
+[
+  {
+    "name": "嬉皮漫畫",
+    "fileName": "hipmh.js",
+    "key": "hipmh",
+    "version": "1.0.2",
+    "description": "m.hipmh.com 在线漫画/Webtoon 源。v1.0.2（2026-10-08）重写为 API 驱动：首页改走 /v1/mangas、详情改 /manga 路由、章节用数字 mid，修复站点改前端渲染后列表空白。图片解码沿用 v1.0.1。"
+  }
+]
